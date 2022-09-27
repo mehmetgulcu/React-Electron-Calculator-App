@@ -14,7 +14,7 @@
  1. npm start 
  2. npm run start-electron
 
-
+## Photos of the application
 ![image1](https://user-images.githubusercontent.com/69081582/192452149-9f60fb3d-9bcc-47d5-b482-df343ddf1367.png)
 
 ![image2](https://user-images.githubusercontent.com/69081582/192452155-01c53a5e-0bb4-4f1e-ab24-d9d467f32863.PNG)
